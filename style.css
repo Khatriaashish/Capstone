@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "myFont";
+    src: url("myFont.woff2");
+  }
+body{
+    background-color: #9DB2BF;
+}
+.my-5, .g-0{
+    background-color: #526D82;
+}
